@@ -1,0 +1,10 @@
+Package: es.iflam.hidelsmusiccontrols
+Name: HideLSMusicControls
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide media controls on the lock screen. (Nothing to configure. Future updates maybe?)
+Maintainer: iFlames
+Author: iFlames
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 88
